@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092075963041",
+    "project_id": "proyectfinal-cd52c",
+    "storage_bucket": "proyectfinal-cd52c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092075963041:android:eb0936f10cdf92aa8ee6e0",
+        "android_client_info": {
+          "package_name": "dev.leonardom.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092075963041-su0loemmrmc50i91823fuclksq91ov9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4OAOp9WS5Kcn6LM8MQLym3ndrKfCu-uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092075963041-su0loemmrmc50i91823fuclksq91ov9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
